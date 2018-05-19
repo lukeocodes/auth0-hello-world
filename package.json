@@ -1,0 +1,8 @@
+{
+  "name": "auth0-hello-world",
+  "version": "1.0.0",
+  "description": "Learn what it takes to rapidly create a webpage you can authenticate your users on, using Auth0",
+  "repository": "git@github.com:lukeoliff/auth0-hello-world.git",
+  "author": "Luke Oliff <luke@lukeoliff.com>",
+  "license": "MIT"
+}
